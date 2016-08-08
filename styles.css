@@ -1,0 +1,124 @@
+.container {
+	min-width: ;
+}
+
+.header {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.rating, #rating {
+	display: block;
+}
+
+.serach-box {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.main-nowPly {
+	margin-top: 25px;
+}
+.main-nowPly > div > div {
+	min-height: 450px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+.movie-info {
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 15px;
+}
+
+/* @media screen and (min-width: 770px) {
+	.main-nowPly > div > div {
+
+	}
+} */
+/* 
+{
+  "genres": [
+      "id": 28,
+    {
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10769,
+      "name": "Foreign"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ] */
