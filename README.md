@@ -1,5 +1,5 @@
 ## Movie-app
-A practice using an API: a movie app pulling data from The Movie DB API. 
+Practice using an API: a movie app pulling data from The Movie DB API. 
 Displays movies now playing on a landing page, with options to view most popular movies and top rated movies
 Option to serach for a movie (search keyword passed as a query)
 
